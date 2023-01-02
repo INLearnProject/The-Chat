@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "228337213146",
+    "firebase_url": "https://thechat-49e1c.firebaseio.com",
+    "project_id": "thechat-49e1c",
+    "storage_bucket": "thechat-49e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228337213146:android:f2f31e9d6a0836fc3c8fe3",
+        "android_client_info": {
+          "package_name": "com.example.thechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228337213146-alkr6cvjhbmrvi0f6jbf2nu6mf8fsd3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJArGNfdXy0CclJwp15eXuMqnK-UJ6RJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228337213146-alkr6cvjhbmrvi0f6jbf2nu6mf8fsd3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228337213146-oatorp2mv53id7a7na6kas3dqska39d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thechat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228337213146:android:66972f2032b4eadc3c8fe3",
+        "android_client_info": {
+          "package_name": "org.inmanencia.thechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228337213146-alkr6cvjhbmrvi0f6jbf2nu6mf8fsd3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJArGNfdXy0CclJwp15eXuMqnK-UJ6RJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228337213146-alkr6cvjhbmrvi0f6jbf2nu6mf8fsd3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228337213146-oatorp2mv53id7a7na6kas3dqska39d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
